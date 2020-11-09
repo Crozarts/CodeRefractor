@@ -1,6 +1,6 @@
 ## 01 HTML CSS Git: Code Refactor Homework Assignment 
 
-We were assigned to refractor this code for the *Horiseon Accessibilty* website 
+We were assigned to refractor this code for the *Horiseon Accessibilty* website to adhere to accessibilty standards.
 
 ## Horiseon Accessibilty User Story
 
